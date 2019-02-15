@@ -21,13 +21,13 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://docs.mythos.services/cosmos/</loc>
+     <lastmod>2019-02-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.mythos.services/loom/loom-how/</loc>
-     <lastmod>2019-02-15</lastmod>
+     <loc></loc>
+     
      <changefreq>daily</changefreq>
     </url>
 </urlset>
